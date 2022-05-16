@@ -1,12 +1,13 @@
 import React from 'react';
-import {Text, SafeAreaView} from 'react-native';
+import {SafeAreaView} from 'react-native';
+import Home from './src/screens/Home';
 
 // import { Container } from './styles';
 
 function App() {
   return (
     <SafeAreaView>
-      <Text>Hello World</Text>
+      <Home />
     </SafeAreaView>
   );
 }
