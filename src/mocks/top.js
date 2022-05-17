@@ -1,5 +1,5 @@
 const top = {
-  welcome: 'Olá André',
+  welcome: 'Olá Andreee',
   subtitle: 'Encontre os melhores produtores',
 };
 
